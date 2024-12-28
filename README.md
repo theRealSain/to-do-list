@@ -14,6 +14,12 @@ A simple and clean To-Do List application built using **React**. This app allows
 - **CSS**: For styling the application.
 - **Vite**: Fast build tool for React.
 
+## Hosted Link
+
+You can view the live version of the app here:
+
+[**To-Do List App**](https://therealsain.github.io/to-do-list/)
+
 ## Setup
 
 ### 1. Clone the repository
