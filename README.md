@@ -1,7 +1,5 @@
 # To-Do List App
 
-![Demo Screenshot](https://github.com/theRealSain/to-do-list/blob/main/public/page.png)
-
 A simple and clean To-Do List application built using **React**. This app allows users to add, view, and remove tasks from their to-do list.
 
 ## Features
